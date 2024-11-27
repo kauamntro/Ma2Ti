@@ -5,3 +5,7 @@
 build
 node_modules
 *.tsbuildinfo
+Dockerfile
+Dockerfile.bun
+Dockerfile.pnpm
+.dockerignore
